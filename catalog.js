@@ -51,6 +51,8 @@ let suggestions = [
   "The Pout-Pout Fish",
   "Click, Clack, Moo: Cows That Type",
   "Chicka Chicka Boom Boom",
+  "Cinderella",
+  "Alice In WonderLand",
 ];
 
 const inputbox = document.getElementById("book");
